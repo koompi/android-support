@@ -30,3 +30,8 @@ tar -xzvf android-google_20200803.tar.gz
 cd android-google
 sh installer.sh
 ```
+
+### Install APK From apk file
+![Install APK ](/images/installapk.png)
+
+Go to [Appmirror](https://appmirror.net/) and Download the apk you want to install. Open Dolphin and change directory to where you downloaded the apk file and right click on it and you will see the custom features to install apk file by right click.
