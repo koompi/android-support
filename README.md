@@ -22,3 +22,11 @@ cd ~/Downloads/
 ```shell
 curl http://repo.koompi.org/pix/android-google_20200803.tar.gz -O
 ```
+
+### Installation Step
+
+```shell
+tar -xzvf android-google_20200803.tar.gz
+cd android-google
+sh installer.sh
+```
